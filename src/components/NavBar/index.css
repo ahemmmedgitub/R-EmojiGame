@@ -1,0 +1,46 @@
+/* Write your code here. */
+
+.nav-bar {
+  background-color: #ffffff33;
+  background-size: cover;
+  height: 70px;
+}
+.emoji-score-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 0px;
+}
+.emoji-logo-container {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  margin-top: 0px;
+}
+.emoji-logo {
+  height: 40px;
+  width: 40px;
+  margin-right: 5px;
+  margin-top: 12px;
+}
+.nav-emoji {
+  font-size: 22px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding-bottom: 20px;
+}
+.score-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.score {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.top-score {
+  padding-left: 20px;
+}

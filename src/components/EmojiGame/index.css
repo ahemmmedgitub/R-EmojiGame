@@ -1,0 +1,16 @@
+/* Write your code here. */
+.bg-container {
+  background-image: linear-gradient(to bottom, #a1a0ee, #aeadec, #eec2f1);
+  background-size: cover;
+  padding-bottom: 40px;
+}
+.un-order-list-elements {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 40px;
+  margin-left: 120px;
+  margin-right: 80px;
+}
